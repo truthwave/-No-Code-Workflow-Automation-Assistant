@@ -1,5 +1,5 @@
 <p>
- 
+ <img width="1536" height="1024" alt="段落テキスト (7)" src="https://github.com/user-attachments/assets/6e566188-f283-4438-941a-2538ee07839e" />
 </p>
 
 # 業務プロセス自動化アシスタント（ノーコード連携） / No-Code Workflow Automation Assistant

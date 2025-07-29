@@ -3,7 +3,7 @@
 
 </p>
 
-# 業務プロセス自動化アシスタント（ノーコード連携） / No-Code Workflow Automation Assistant
+# 業務プロセス自動化アシスタント（ノーコード連携）
 
 > **「Make、Zapier、Notionなどの自動化設計を、AIが一緒に考えてくれる。」**
 

@@ -169,3 +169,9 @@ MIT License
 ---
 
 > **「Make、Zapier、Notionなどの自動化設計を、AIが一緒に考えてくれる。」**
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！

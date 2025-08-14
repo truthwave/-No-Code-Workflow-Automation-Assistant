@@ -1,6 +1,5 @@
-<p>
+<p align="center">
 <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/be6ea26e-417b-414f-8676-393183c45109" />
-
 </p>
 
 # 業務プロセス自動化アシスタント（ノーコード連携）
@@ -159,3 +158,6 @@ MIT License
 [ともプログラム便り](https://github.com/TomoProgrammingDayori)
 
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)

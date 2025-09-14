@@ -11,9 +11,7 @@
 ---
 
 ## プロジェクト概要
-![スライド2](https://github.com/TomoAIDayori/-No-Code-Workflow-Automation-Assistant/blob/main/%E8%B3%87%E6%96%99/%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E8%87%AA%E5%8B%95%E5%8C%96GPTs%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892.PNG)
-![スライド3](https://github.com/TomoAIDayori/-No-Code-Workflow-Automation-Assistant/blob/main/%E8%B3%87%E6%96%99/%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E8%87%AA%E5%8B%95%E5%8C%96GPTs%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%893.PNG)
-![スライド4](https://github.com/TomoAIDayori/-No-Code-Workflow-Automation-Assistant/blob/main/%E8%B3%87%E6%96%99/%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E8%87%AA%E5%8B%95%E5%8C%96GPTs%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%894.PNG)
+[スライド資料はこちら](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/tree/main/%E8%B3%87%E6%96%99/%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E8%87%AA%E5%8B%95%E5%8C%96GPTs%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
 
 
 ---

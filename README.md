@@ -155,6 +155,8 @@ MIT License
 
 > **作業の効率化を“考える時間”すら、もういらない。**
 
+---
+
 ## 🧑‍💻 作者
 
 **[Truth Wave ― 真理の波](https://github.com/truthwave)**  

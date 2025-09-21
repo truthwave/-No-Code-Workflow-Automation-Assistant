@@ -11,7 +11,7 @@
 ---
 
 ## プロジェクト概要
-[スライド資料はこちら](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/tree/main/%E8%B3%87%E6%96%99/%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E8%87%AA%E5%8B%95%E5%8C%96GPTs%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
+#### [スライド資料はこちら](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/tree/main/%E8%B3%87%E6%96%99/%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E8%87%AA%E5%8B%95%E5%8C%96GPTs%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
 
 
 ---
@@ -63,12 +63,7 @@ AIが業務内容をヒアリングし、自動化フローの設計・文書化
 ## 📸 **体験イメージ**
 ![デモ動画](https://github.com/TomoProgrammingDayori/-No-Code-Workflow-Automation-Assistant/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
-![GmailからGoogleスプレッドシートへの連携自動化](https://github.com/TomoProgrammingDayori/-No-Code-Workflow-Automation-Assistant/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/Gmail%E3%81%8B%E3%82%89Google%20Sheets%E3%81%B8%E3%81%AE%E9%80%A3%E6%90%BA%E8%87%AA%E5%8B%95%E5%8C%96.jpeg)
-
-
-![GoogleフォームからSlackへの連携自動化](https://github.com/TomoProgrammingDayori/-No-Code-Workflow-Automation-Assistant/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/Google%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89Slack%E3%81%B8%E3%81%AE%E9%80%A3%E6%90%BA%E8%87%AA%E5%8B%95%E5%8C%96.jpeg)
-
-![NotionからSlack・Teamsへの連携自動化](https://github.com/TomoProgrammingDayori/-No-Code-Workflow-Automation-Assistant/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/Notion%E3%81%8B%E3%82%89Slack%E3%83%BBTeams%E3%81%B8%E3%81%AE%E9%80%A3%E6%90%BA%E8%87%AA%E5%8B%95%E5%8C%96.jpeg)
+### [スクリーンショットはこちら](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
 ---
 

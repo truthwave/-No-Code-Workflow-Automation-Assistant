@@ -1,159 +1,91 @@
-# No-Code Workflow Automation Assistant
+# Business Process Automation Assistant (No-Code Integration)
 
-> **“AI that helps you design automations with Make, Zapier, Notion, and more.”**
+> Don't let manual tasks steal your time.
+> Design the flow. Discard the execution.
+> What remains is focus.
 
-👉 [Try the No-Code Workflow Automation Assistant on ChatGPT](https://chatgpt.com/g/g-686cbee5caec819198409bcf683f72f9-ye-wu-hurosesuzi-dong-hua-asisutanto-nokotolian-xi)
-
----
-
-## 📌 Overview
-
-**No-Code Workflow Automation Assistant** is a GPT-based assistant that helps you plan and build business process automations using no-code or low-code tools.
-
-- “I want to automate repetitive tasks I’m doing manually.”
-- “I’d like to use Zapier or Make, but I’m not sure how to set it up.”
-- “I need to prepare proposal documents for clients quickly.”
-
-This tool supports users in solving these practical challenges with the power of AI.
+👉 [Try the Business Process Automation Assistant with ChatGPT](https://chatgpt.com/g/g-686cbee5caec819198409bcf683f72f9-ye-wu-hurosesuzi-dong-hua-asisutanto-nokotolian-xi)
 
 ---
 
-## ✅ Key Features
-
-### Convert Business Flows → Automation Flows
-
-- Asks questions to understand your business process
-- Suggests concrete automation flows for tools like Zapier or Make
-- Clearly lists triggers and actions
+## Experience
+- Listens to your workflow and outputs an implementable automation flow for Make / Zapier / Notion.
+- Instantly shares triggers/actions/data paths via tables, JSON, and explanatory text.
+- Determines whether automation is advisable based on frequency, branching, and exceptions.
 
 ---
 
-### Generate English Prompts
+## Before → After
 
-- Outputs automation steps in English that you can copy directly into Zapier/Make
-- Supports proposals for international clients
-
----
-
-### Outputs Diagrams or Step Lists
-
-- Can provide:
-  - JSON-like structures
-  - Step-by-step tables
-  - Pseudocode-style outputs
-- Offers multiple formats for different documentation needs
+- Weekly routine tasks: 3 hours → 45 minutes
+- Proposal creation: 60 min → 10 min (includes outline, diagrams, and English output)
+- Trial-and-error Slack/Notion integration: Several days → Functional on first attempt
+*Estimated values. May vary by project and environment.
 
 ---
 
-### Advice on Whether Automation Is Necessary
+## 💻 Use Cases
 
-- Helps you decide:
-  - “Is this worth automating?”
-  - “Or is it simpler to keep it manual?”
+### ✅ Notion × Google Calendar × Slack Integration
 
-Prevents unnecessary or excessive automation.
-
----
-
-### Supplemental Technical Support
-
-- Provides simple examples of Google Apps Script
-- Advises on using ChatGPT API integrations (optional)
-
----
-
-## 🎯 Target Users
-
-- Individuals or business users starting with no-code tools
-- Staff at small and medium businesses seeking to automate routine tasks
-- IT consultants preparing client proposals for no-code automation
-- Non-programmers who want to improve efficiency
-
----
-
-## 💻 Usage Examples
-
-### User Input Example 1
+**Input:**
 
 ```
-
-Every day, I write a daily report in Notion and also register events in Google Calendar. I’d like to notify my boss on Slack too.
-
+I write daily reports in Notion and register schedules in Google Calendar.
+I also want to notify my manager via Slack.
 ```
 
-#### GPT Example Output
+**Output Example:**
 
 ```
-
-This process can be automated in Make as follows:
-
-1. Trigger when a new daily report page is created in Notion
-2. Add a new event in Google Calendar at a specified time
-3. Send a Slack message saying “A daily report has been registered.”
-
-Make structure:
 Trigger: Notion → Watch Database Item
-Action: Google Calendar → Create an Event
-Action: Slack → Send a Message
+Action: Google Calendar → Create Event
+Action: Slack → Send Message
 
-In English:
-"New Notion page → Add Google Calendar event → Send Slack message"
-
+“New Notion page → Add Google Calendar event → Send Slack message”
 ```
 
 ---
 
-### User Input Example 2
+### ✅ Google Form → Spreadsheet → Slack Notification
+
+**Input:**
 
 ```
-
-When someone submits a Google Form, I want to automatically transfer the data into a spreadsheet and notify the person in charge via Slack.
-
+When a response is submitted to Google Forms, I want it automatically transferred to a spreadsheet and notified on Slack.
 ```
 
-#### GPT Example Output
+**Example Output:**
 
 ```
+Trigger: Google Forms → New Response
+Action: Google Sheets → Create Row
+Action: Slack → Send Channel Message
 
-This process can also be automated using Zapier:
-
-1. Trigger: Google Forms → New Form Response
-2. Action: Google Sheets → Create Spreadsheet Row
-3. Action: Slack → Send Channel Message
-
-In English:
-"New Google Form response → Add row to Sheet → Send Slack message"
-
+“New Google Form → Add row to Sheet → Notify on Slack”
 ```
 
 ---
 
-## 🛠 Technical Highlights
-
-- Custom prompt engineering optimized for the task of:
-  **“Business process → Automation flow conversion.”**
-- English output ready to use in Zapier or Make configuration screens
-- Easy-to-understand explanations for non-engineers
-- Various output formats such as JSON or tables for practical use
-- Decision support for avoiding unnecessary automations
+## How to Use (3 Steps)
+1. Communicate current workflow and desired outcome
+2. Share tools (Make / Zapier / Notion, etc.) and constraints
+3. Implement directly using the received **specifications (table/JSON/explanation)**
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Decision Guide (The Courage to Say No)
 
-- Due to tool updates, the suggested automation flows may not always work as-is.
-- This tool only provides suggestions; it does not guarantee operational results.
-- Do not enter confidential or sensitive data.
-- All implementation decisions are the user’s responsibility.
+- Low frequency / Full of exceptions: Don't automate
+- Data modification depends on humans: Introduce gradually
+- Time saved × Frequency > Implementation cost: Automate
 
 ---
 
-## 🚀 Future Plans
-
-- Support for more complex, multi-step flows
-- Multilingual output beyond English
-- Generation of visual diagrams for automation flows
-- Practical examples integrating with the ChatGPT API
+## Disclaimer
+- This tool supports design and proposals; it does not guarantee implementation functionality.
+- Operation may change due to specification updates in each service.
+- Avoid entering confidential information. Final decisions are your responsibility.
 
 ---
 
@@ -163,5 +95,17 @@ MIT License
 
 ---
 
-> **“AI that helps you design automations with Make, Zapier, Notion, and more.”**
+## 🧑‍💻 Author
 
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+Please also check out information about my portfolio and AI tool development!
+
+## Feel Free to Contact Us
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
+
+---
+
+## 🏁 In Closing
+
+> Automation isn't about eliminating tasks.
+> It's about freeing up time to think.

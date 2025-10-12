@@ -6,6 +6,10 @@
 
 👉 [Try the Business Process Automation Assistant with ChatGPT](https://chatgpt.com/g/g-686cbee5caec819198409bcf683f72f9-ye-wu-hurosesuzi-dong-hua-asisutanto-nokotolian-xi)
 
+<p align="center">
+<img width="1536" height="1024" alt="ノーコード" src="https://github.com/user-attachments/assets/e82e658c-d094-430d-a434-9fa1c0680bdb" />
+</p>
+
 ---
 
 ## Experience

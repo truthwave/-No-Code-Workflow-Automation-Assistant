@@ -5,7 +5,8 @@
 > 残すべきは、集中だ。
 
 <p align="center">
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/be6ea26e-417b-414f-8676-393183c45109" />
+<img width="1536" height="1024" alt="20251018_1041_未来的自動化アート_simple_compose_01k7tfkdpafg9brhmj7w3tsn4n (1)" src="https://github.com/user-attachments/assets/e8c32319-02cc-4c5b-a43b-d60757d676ab" />
+
 </p>
 
 👉 [業務プロセス自動化アシスタントをChatGPTで試す](https://chatgpt.com/g/g-686cbee5caec819198409bcf683f72f9-ye-wu-hurosesuzi-dong-hua-asisutanto-nokotolian-xi)

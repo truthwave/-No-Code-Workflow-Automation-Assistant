@@ -7,7 +7,7 @@
 👉 [Try the Business Process Automation Assistant with ChatGPT](https://chatgpt.com/g/g-686cbee5caec819198409bcf683f72f9-ye-wu-hurosesuzi-dong-hua-asisutanto-nokotolian-xi)
 
 <p align="center">
-<img width="1536" height="1024" alt="ノーコード (1)" src="https://github.com/user-attachments/assets/bccb4724-d5f9-43ea-a3d1-40abb9a81375" />
+<img width="1536" height="1024" alt="ノーコード" src="https://github.com/user-attachments/assets/0d0e2829-59f9-4a32-b056-9d837c2cff8d" />
 </p>
 
 ---

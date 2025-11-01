@@ -34,6 +34,8 @@
 
 ### [Screenshot](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/tree/main/English/Materials/Screenshot)
 
+#### [Slide materials are here]](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/blob/main/English/Materials/Business%20Process%20Automation%20Assistant%20(No-Code%20Integration).pdf)
+
 ---
 
 ## 💻 Use Cases

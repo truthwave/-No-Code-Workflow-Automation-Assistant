@@ -110,7 +110,7 @@ MIT License
 
 ## 🧑‍💻 作者
 
-**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+**[Truth Wave ― 真理の波](https://github.com/truthwave/Truth-Wave)**  
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
 
 ## お気軽にご連絡ください

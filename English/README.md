@@ -34,6 +34,10 @@
 
 ### [Screenshot](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/tree/main/English/Materials/Screenshot)
 
+### Watch on YouTube
+[![Design the flow, discard the execution. The shortest path to automating business processes](https://github.com/user-attachments/assets/e0bd22d0-a888-424d-95ed-4a633df99b26)](https://youtu.be/qzlRFscVDA8)
+<img width="1280" height="720" alt="ノーコード (2)" src="https://github.com/user-attachments/assets/e0bd22d0-a888-424d-95ed-4a633df99b26" />
+
 #### [Slide materials are here](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/blob/main/English/Materials/Business%20Process%20Automation%20Assistant%20(No-Code%20Integration).pdf)
 
 ---

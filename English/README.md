@@ -4,8 +4,6 @@
 > Design the flow. Discard the execution.
 > What remains is focus.
 
-👉 [Try the Business Process Automation Assistant with ChatGPT](https://chatgpt.com/g/g-686cbee5caec819198409bcf683f72f9-ye-wu-hurosesuzi-dong-hua-asisutanto-nokotolian-xi)
-
 <p align="center">
 <img width="1536" height="1024" alt="ノーコード" src="https://github.com/user-attachments/assets/d875464b-c61e-4582-839c-cc3033d45f46" />
 </p>

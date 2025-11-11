@@ -8,8 +8,6 @@
 <img width="1536" height="1024" alt="ノーコード" src="https://github.com/user-attachments/assets/c7d24bb4-b07f-4d72-adfb-6e340b9de7a8" />
 </p>
 
-👉 [業務プロセス自動化アシスタントをChatGPTで試す](https://chatgpt.com/g/g-686cbee5caec819198409bcf683f72f9-ye-wu-hurosesuzi-dong-hua-asisutanto-nokotolian-xi)
-
 ---
 
 ## 体験

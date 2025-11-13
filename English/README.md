@@ -89,6 +89,15 @@ Action: Slack → Send Channel Message
 
 ---
 
+🛒 Use Now  
+
+This project currently offers a paid version.  
+If you'd like AI prompt design, customization, or implementation support, please inquire below.
+
+### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmhu029xq000w7c0hfdvsbzm9)
+
+---
+
 ## ⚠️ Decision Guide (The Courage to Say No)
 
 - Low frequency / Full of exceptions: Don't automate

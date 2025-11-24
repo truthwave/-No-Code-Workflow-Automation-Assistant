@@ -101,7 +101,7 @@ Action: Slack → Send Channel Message
 このプロジェクトは、現在有償版を販売しています。  
 AIプロンプト設計・カスタマイズ・導入サポートをご希望の方は、以下よりご相談ください。
 
-### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmhu029xq000w7c0hfdvsbzm9)
+### 👉 [noteの販売ページを見る](https://note.com/truth_wave/n/n231bb4192cae)
 
 ---
 

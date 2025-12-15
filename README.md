@@ -96,12 +96,18 @@ Action: Slack → Send Channel Message
 
 ---
 
-## 🛒 今すぐ使う
+## Truth Wave GPTs を実際に使ってみる
 
-このプロジェクトは、現在有償版を販売しています。  
-AIプロンプト設計・カスタマイズ・導入サポートをご希望の方は、以下よりご相談ください。
+このブログで書いた内容は、「実際に動くGPT」として使えるようにしてあります。
 
-### 👉 [noteの販売ページを見る](https://note.com/truth_wave/n/n231bb4192cae)
+- まとめて整えたい方へ（GPT本体＋オプション資料つき）
+　GPT本体にくわえて、チェックリストやテンプレートなどのオプション資料も
+　一式セットにしたプランです。
+### [→ Truth Wave GPTs セット（GPT＋オプション資料つき）](https://note.com/truth_wave/n/n770aba1604ac)
+
+- まずは一点だけ試したい方へ（GPT本体のみ）
+　今回のテーマのGPT本体だけを、ピンポイントで使ってみたい方向けです。
+### [→ このGPTを単品で使ってみる（GPT本体のみ）](https://note.com/truth_wave/n/n231bb4192cae)
 
 ---
 

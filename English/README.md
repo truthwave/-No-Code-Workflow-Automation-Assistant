@@ -101,8 +101,6 @@ The content written in this blog is designed to be usable as a “working GPT.�
   This is for those who want to use only the GPT core for this specific theme, pinpointed for immediate use.
 ### [→ Try this GPT as a standalone item (GPT core only)](https://note.com/truth_wave/n/n231bb4192cae)
 
-Translated with DeepL.com (free version)
-
 ---
 
 ## ⚠️ Decision Guide (The Courage to Say No)

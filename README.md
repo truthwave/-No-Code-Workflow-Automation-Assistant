@@ -89,11 +89,6 @@ Action: Slack → Send Channel Message
 
 ### [スクリーンショットはこちら](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
-### Youtubeはこちら
-[![フローは設計、実行は捨てる。業務プロセス自動化の最短手順](https://github.com/user-attachments/assets/3a950d18-2f55-4c25-84ef-abb6e6abc343)](https://youtu.be/qzlRFscVDA8)
-
-#### [スライド資料はこちら](https://github.com/truthwave/-No-Code-Workflow-Automation-Assistant/blob/main/%E8%B3%87%E6%96%99/%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E8%87%AA%E5%8B%95%E5%8C%96GPTs%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)
-
 ---
 
 ## Truth Wave GPTs を実際に使ってみる
